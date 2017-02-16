@@ -352,7 +352,7 @@ public class MainActivity extends Activity
          * @throws IOException
          */
         private List<String> getDataFromApi() throws IOException {
-            // List the next 10 events from the primary calendar.
+            // List the next 20 events from the primary calendar.
             DateTime now = new DateTime(System.currentTimeMillis());
             List<String> eventStrings = new ArrayList<String>();
             Events events = mService.events().list("primary")
