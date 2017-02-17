@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Calendo.iml" filepath="$PROJECT_DIR$/Calendo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googleCalendarView/googleCalendarView.iml" filepath="$PROJECT_DIR$/googleCalendarView/googleCalendarView.iml" />
     </modules>
   </component>
 </project>

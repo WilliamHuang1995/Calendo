@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1180125070139733"
+    token="6563764933532950479"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="21327" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="4725" />
+    <task
+        name="verifier"
+        duration="1426" />
+
+    <artifact
+        location="C:\Users\user\Desktop\Calendo\googleCalendarView\build\outputs\apk\googleCalendarView-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1180125070139733"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\user\Desktop\Calendo\googleCalendarView\build\outputs\apk\googleCalendarView-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
