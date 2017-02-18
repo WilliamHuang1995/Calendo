@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Feb 17 12:54:27 PST 2017
+#Fri Feb 17 15:57:06 PST 2017
 25.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\timeline_indicator_activated_holo_light.9.png
 25.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_
 22.set=ANDROID_RESOURCE
@@ -37,7 +37,7 @@ count=37
 15.set=ANDROID_RESOURCE
 27.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\slide_left_out.xml
 27.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_
-1.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_expand_small_holo_light.png
+1.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\ic_expand_holo_light.xml
 1.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_
 1.set=ANDROID_RESOURCE
 31.set=DEX
@@ -60,7 +60,7 @@ count=37
 10.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_
 28.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_3c9634e73870f3270eed8634a922b954d7502e55
 14.set=ANDROID_RESOURCE
-2.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\ic_expand_holo_light.xml
+2.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_expand_small_holo_light.png
 2.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_
 22.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\today_blue_week_holo_light.9.png
 22.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_

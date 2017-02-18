@@ -51,7 +51,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
      * TODO: remove after connecting to a real authentication system.
      */
     private static final String[] DUMMY_CREDENTIALS = new String[]{
-            "foo@example.com:hello", "bar@example.com:world"
+            "foo@example.com", "bar@example.com"
     };
     /**
      * Keep track of the login task to ensure we can cancel it if requested.
@@ -88,9 +88,15 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         mEmailSignInButton.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {
-                //attemptLogin();
-                Intent i = new Intent(getApplicationContext(),MainActivity.class);
-                startActivity(i);
+                attemptLogin();
+
+                //main activity
+                //Intent i = new Intent(getApplicationContext(),MainActivity.class);
+                //startActivity(i);
+
+                //PackageManager pm = getPackageManager();
+                //Intent intent = pm.getLaunchIntentForPackage("com.example.calendarview");
+                //startActivity(intent);
             }
         });
 
@@ -197,12 +203,21 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             showProgress(true);
             mAuthTask = new UserLoginTask(email, password);
             mAuthTask.execute((Void) null);
+            if (password.equals("")){
+                Intent i = new Intent(getApplicationContext(),MainActivity.class);
+                startActivity(i);
+            }
+            else {
+                PackageManager pm = getPackageManager();
+                Intent intent = pm.getLaunchIntentForPackage("com.example.calendarview");
+                startActivity(intent);
+            }
         }
     }
 
     private boolean isEmailValid(String email) {
         //TODO: Replace this with your own logic
-        return email.contains("@");
+        return email.contains("@ucsd.edu");
     }
 
     private boolean isPasswordValid(String password) {

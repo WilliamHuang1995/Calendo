@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Feb 17 12:54:06 PST 2017
+#Fri Feb 17 15:56:47 PST 2017
 22.set=ANDROID_RESOURCE
 8.set=ANDROID_RESOURCE
 11.set=ANDROID_RESOURCE
@@ -10,7 +10,7 @@ count=24
 6.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\timeline_indicator_activated_holo_light.9.png
 6.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_
 2.set=ANDROID_RESOURCE
-0.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\ic_expand_holo_light.xml
+0.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_expand_small_holo_light.png
 0.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_
 21.set=ANDROID_RESOURCE
 20.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_main.xml
@@ -22,7 +22,7 @@ count=24
 7.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\full_month_header.xml
 7.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_
 15.set=ANDROID_RESOURCE
-1.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_expand_small_holo_light.png
+1.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\ic_expand_holo_light.xml
 1.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_
 1.set=ANDROID_RESOURCE
 21.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\dayline_minical_holo_light.9.png
@@ -31,7 +31,7 @@ count=24
 16.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\ic_collapse_holo_light.xml
 6.set=ANDROID_RESOURCE
 16.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_
-8.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\panel_month_event_holo_light.9.png
+8.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_collapse_small_holo_light.png
 8.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_
 17.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\slide_left_in.xml
 17.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_
@@ -44,7 +44,7 @@ count=24
 22.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_
 0.set=ANDROID_RESOURCE
 19.set=ANDROID_RESOURCE
-9.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_collapse_small_holo_light.png
+9.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\panel_month_event_holo_light.9.png
 5.set=ANDROID_RESOURCE
 18.file=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\full_month_by_week.xml
 9.base=C\:\\Users\\user\\Desktop\\Calendo\\googleCalendarView\\build\\intermediates\\res\\resources-debug.ap_

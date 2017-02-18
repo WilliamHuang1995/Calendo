@@ -1,0 +1,171 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea\
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\libraries\
+* .idea\libraries\android_support_v4.xml
+* .idea\markdown-navigator\
+* .idea\markdown-navigator\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* ExtendedCalendarView.png
+* GoogleCalendarView.iml
+* License.txt
+* README.md
+* ic_launcher-web.png
+* out\
+* out\production\
+* out\production\GoogleCalendarView\
+* out\production\GoogleCalendarView\GoogleCalendarView.apk
+* out\production\GoogleCalendarView\GoogleCalendarView.unaligned.apk
+* out\production\GoogleCalendarView\com\
+* out\production\GoogleCalendarView\com\example\
+* out\production\GoogleCalendarView\com\example\calendarview\
+* out\production\GoogleCalendarView\com\example\calendarview\BuildConfig.class
+* out\production\GoogleCalendarView\com\example\calendarview\CalendarController$1.class
+* out\production\GoogleCalendarView\com\example\calendarview\CalendarController$EventHandler.class
+* out\production\GoogleCalendarView\com\example\calendarview\CalendarController$EventInfo.class
+* out\production\GoogleCalendarView\com\example\calendarview\CalendarController$EventType.class
+* out\production\GoogleCalendarView\com\example\calendarview\CalendarController$ViewType.class
+* out\production\GoogleCalendarView\com\example\calendarview\CalendarController.class
+* out\production\GoogleCalendarView\com\example\calendarview\CalendarData.class
+* out\production\GoogleCalendarView\com\example\calendarview\CalendarProvider$DatabaseHelper.class
+* out\production\GoogleCalendarView\com\example\calendarview\CalendarProvider.class
+* out\production\GoogleCalendarView\com\example\calendarview\CalendarUtils$TimeZoneUtils$AsyncTZHandler.class
+* out\production\GoogleCalendarView\com\example\calendarview\CalendarUtils$TimeZoneUtils.class
+* out\production\GoogleCalendarView\com\example\calendarview\CalendarUtils.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayFragment$1.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayFragment.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$1.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$2.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$3.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$4.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$5.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$6.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$7.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$8.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$CalendarGestureListener.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$ContextMenuHandler.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$ContinueScroll.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$DismissPopup.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$GotoBroadcaster.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$ScrollInterpolator.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$TodayAnimatorListener.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView$UpdateCurrentTime.class
+* out\production\GoogleCalendarView\com\example\calendarview\DayView.class
+* out\production\GoogleCalendarView\com\example\calendarview\Event.class
+* out\production\GoogleCalendarView\com\example\calendarview\EventGeometry.class
+* out\production\GoogleCalendarView\com\example\calendarview\EventLoader$1.class
+* out\production\GoogleCalendarView\com\example\calendarview\EventLoader$LoadEventDaysRequest.class
+* out\production\GoogleCalendarView\com\example\calendarview\EventLoader$LoadEventsRequest.class
+* out\production\GoogleCalendarView\com\example\calendarview\EventLoader$LoadRequest.class
+* out\production\GoogleCalendarView\com\example\calendarview\EventLoader$LoaderThread.class
+* out\production\GoogleCalendarView\com\example\calendarview\EventLoader$ShutdownRequest.class
+* out\production\GoogleCalendarView\com\example\calendarview\EventLoader.class
+* out\production\GoogleCalendarView\com\example\calendarview\ImportEntries.class
+* out\production\GoogleCalendarView\com\example\calendarview\MainActivity.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthByWeekAdapter$1.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthByWeekAdapter$2.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthByWeekAdapter$CalendarGestureListener.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthByWeekAdapter.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthByWeekFragment$1.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthByWeekFragment$2.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthByWeekFragment$3.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthByWeekFragment$4.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthByWeekFragment.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthListView$1.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthListView.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthWeekEventsView$FloatRef.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthWeekEventsView$TodayAnimatorListener.class
+* out\production\GoogleCalendarView\com\example\calendarview\MonthWeekEventsView.class
+* out\production\GoogleCalendarView\com\example\calendarview\R$anim.class
+* out\production\GoogleCalendarView\com\example\calendarview\R$attr.class
+* out\production\GoogleCalendarView\com\example\calendarview\R$bool.class
+* out\production\GoogleCalendarView\com\example\calendarview\R$color.class
+* out\production\GoogleCalendarView\com\example\calendarview\R$dimen.class
+* out\production\GoogleCalendarView\com\example\calendarview\R$drawable.class
+* out\production\GoogleCalendarView\com\example\calendarview\R$id.class
+* out\production\GoogleCalendarView\com\example\calendarview\R$integer.class
+* out\production\GoogleCalendarView\com\example\calendarview\R$layout.class
+* out\production\GoogleCalendarView\com\example\calendarview\R$menu.class
+* out\production\GoogleCalendarView\com\example\calendarview\R$plurals.class
+* out\production\GoogleCalendarView\com\example\calendarview\R$string.class
+* out\production\GoogleCalendarView\com\example\calendarview\R$style.class
+* out\production\GoogleCalendarView\com\example\calendarview\R.class
+* out\production\GoogleCalendarView\com\example\calendarview\SimpleDayPickerFragment$1.class
+* out\production\GoogleCalendarView\com\example\calendarview\SimpleDayPickerFragment$2.class
+* out\production\GoogleCalendarView\com\example\calendarview\SimpleDayPickerFragment$ScrollStateRunnable.class
+* out\production\GoogleCalendarView\com\example\calendarview\SimpleDayPickerFragment.class
+* out\production\GoogleCalendarView\com\example\calendarview\SimpleWeekView.class
+* out\production\GoogleCalendarView\com\example\calendarview\SimpleWeeksAdapter$CalendarGestureListener.class
+* out\production\GoogleCalendarView\com\example\calendarview\SimpleWeeksAdapter.class
+* out\production\GoogleCalendarView\com\example\calendarview\Utils$1.class
+* out\production\GoogleCalendarView\com\example\calendarview\Utils$CalendarBroadcastReceiver.class
+* out\production\GoogleCalendarView\com\example\calendarview\Utils$DNASegment.class
+* out\production\GoogleCalendarView\com\example\calendarview\Utils$DNAStrand.class
+* out\production\GoogleCalendarView\com\example\calendarview\Utils.class
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => googleCalendarView\src\main\AndroidManifest.xml
+* lint.xml => googleCalendarView\lint.xml
+* res\ => googleCalendarView\src\main\res\
+* src\ => googleCalendarView\src\main\java\
+
+Missing Android Support Repository:
+-----------------------------------
+Some useful libraries, such as the Android Support Library, are
+installed from a special Maven repository, which should be installed
+via the SDK manager.
+
+It looks like this library is missing from your SDK installation at:
+null
+
+To install it, open the SDK manager, and in the Extras category,
+select "Android Support Repository". You may also want to install the
+"Google Repository" if you want to use libraries like Google Play
+Services.
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

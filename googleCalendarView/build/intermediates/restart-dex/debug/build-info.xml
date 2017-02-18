@@ -5,33 +5,32 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1180125070139733"
+    timestamp="1192378833456213"
     token="6563764933532950479"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="21327" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="4725" />
+        duration="0" />
     <task
         name="verifier"
-        duration="1426" />
-
-    <artifact
-        location="C:\Users\user\Desktop\Calendo\googleCalendarView\build\outputs\apk\googleCalendarView-debug.apk"
-        type="MAIN" />
+        duration="0" />
 
     <build
-        timestamp="1180125070139733"
+        timestamp="1191099129282560"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\user\Desktop\Calendo\googleCalendarView\build\outputs\apk\googleCalendarView-debug.apk"
             type="MAIN" />
     </build>
+    <build
+        timestamp="1192378833456213"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
